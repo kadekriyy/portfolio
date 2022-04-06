@@ -1,1 +1,1 @@
-This is my portfolio web, create using HTML, Javascript, and Tailwind css
+This is my portfolio web, created using HTML, Javascript, and Tailwind css
