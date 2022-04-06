@@ -6,9 +6,9 @@ function Contact (){
                     <p className="text-4xl font-bold inline border-b-4 border-[#ffff7f] text-gray-300">Contact</p>
                     <p className="text-gray-300 py-4">Submit the form bellow or shoot me an email - kadekriyan16@gmail.com</p>
                 </div>
-                <input className="bg-[#ccd6f6] p-2" type="text" placeholder="Name" name="name"/>
-                <input className="my-4 p-2 bg-[#ccd6f6]" placeholder="Email" name="email" type="email" />
-                <textarea className="bg-[#ccd6f6] p-2" name="message" placeholder="Message" rows="10"></textarea>
+                <input className="bg-[#ccd6f6] p-2" type="text" placeholder="Name" name="name" required/>
+                <input className="my-4 p-2 bg-[#ccd6f6]" placeholder="Email" name="email" type="email"  required/>
+                <textarea className="bg-[#ccd6f6] p-2" name="message" placeholder="Message" rows="10" required></textarea>
                 <button className="text-white border-2 hover:bg-[#ffff7f] hover:text-black px-4 py-3 my-8 mx-auto flex items-center">Let's Collaborate</button>
             </form>
         </div>
