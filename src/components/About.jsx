@@ -16,7 +16,7 @@ export default function About(){
                         </div>
                         <div>
                             <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla quaerat repellendus placeat quasi ipsa vitae perspiciatis esse non, aliquam tenetur praesentium numquam excepturi quod eaque assumenda ad quae libero porro.
+                            I'm a backend developer, I live in Yogyakarta, Indonesia. 
                             </p>
                         </div>
                     </div>
