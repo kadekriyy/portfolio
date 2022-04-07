@@ -16,7 +16,7 @@ export default function About(){
                         </div>
                         <div>
                             <p>
-                                I'm a backend developer, I live in Yogyakarta, Indonesia. I like Programming, Cat, and U
+                                I'm a junior backend developer, I live in Yogyakarta, Indonesia. I like Programming and Cat
                             </p>
                         </div>
                     </div>
